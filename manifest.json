@@ -9,10 +9,10 @@
   "icons": {
   },
   "manifest_version": 2,
-  "name": "copy-bookmark-folder-children",
+  "name": "open-bookmark-folder-in-window",
   "permissions": [
     "menus",
     "bookmarks"
   ],
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
